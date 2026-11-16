@@ -4,7 +4,9 @@
     <TargetFramework>net10.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>Resources\NyxLaunch.ico</ApplicationIcon>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\NyxLaunch.ico</ApplicationIcon>
     <AssemblyName>NyxLaunch</AssemblyName>
     <RootNamespace>NyxLaunch.App</RootNamespace>
     <Version>0.4.1</Version>
